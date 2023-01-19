@@ -1,4 +1,4 @@
-# p-2-sudoku-solver
+# Sudoku Solver Algorithm Research & Development
 
 ## VERSIONS ##
 (12/2/2022)
