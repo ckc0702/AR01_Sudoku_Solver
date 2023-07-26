@@ -1,4 +1,5 @@
-# Sudoku Solver Algorithm Research & Development
+# Sudoku Solver Algorithm Practice
+
 
 ## VERSIONS ##
 (12/2/2022)
